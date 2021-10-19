@@ -90,8 +90,8 @@ defaults:
       share: true
 
 # Site Author
-author: asimplemind
-  name:
+author: 
+  name: "asimplemind"
   picture:
   email:
   twitter:
