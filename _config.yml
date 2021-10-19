@@ -38,7 +38,7 @@ google_analytics: # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 disqus:
   shortname: # Disqus shortname, e.g. "my_disqus_shortname"
 twitter:
-  username: @weezetoon# site's Twitter username, e.g. "mmistakes"
+  username: @weezetoon # site's Twitter username, e.g. "mmistakes"
 
 # Liquid
 liquid:
