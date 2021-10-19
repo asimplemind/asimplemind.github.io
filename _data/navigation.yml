@@ -4,11 +4,13 @@
   url: /
 - title: Posts
   url: /posts/
-- title: Categories
-  url: /categories/
+#  - title: Categories
+#   url: /categories/
 # - title: Tags
 #   url: /tags/
-- title: Recipes
+- title: Visualization
+  url: /visualization/
+- title: Soap Recipes
   url: /recipes/
 - title: Search
   url: /search/
