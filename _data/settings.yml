@@ -9,8 +9,8 @@ description:
 # Author Settings
 author:
   name: 
-  image: 01.png
-  say-hello: Hello, I’m <strong>a Simple Mind</strong>
+  image: 01.jpg
+  say-hello: <strong>a Simple Mind</strong>
   bio: Mountineering, Machine Learning for conservation, and passionate about <strong>living almost zero waste</strong>, <strong>traveling light</strong>.
 
 #-------------------------------
