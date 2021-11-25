@@ -1,7 +1,7 @@
 #-------------------------------
 # General Site Settings
 title: Living Wild
-logo: logo.svg # You can add own logo.
+logo: # You can add own logo.
 description:
 
 
@@ -10,7 +10,7 @@ description:
 author:
   name: asimplemind
   image: about-mountains.jpeg
-  say-hello: <strong>a Simple Mind</strong>
+  say-hello: <strong>a simple mind</strong>
   bio: Mountineering, Machine Learning for conservation, and passionate about <strong>living almost zero waste</strong>, <strong>traveling light</strong>.
 
 #-------------------------------
