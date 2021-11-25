@@ -6,4 +6,4 @@
   tags: Life
   ---
 
-What are we thankful for? Having a day off from work and be together. Can't get hygger than this.
+What are we thankful for? Having a day off from work and be together. Can't get more hygge-er than this.
