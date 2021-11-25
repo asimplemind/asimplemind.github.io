@@ -2,7 +2,7 @@
   layout: post
   title: I am thankful for our cats and dog
   date: 2021-11-25
-  image: 03.jpg
+  image: 01.png
   tags: Life
   ---
 
