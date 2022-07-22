@@ -5,6 +5,6 @@ permalink: /about/
 image: about-mountains.jpeg
 ---
 
-All things cats, dog, code snippets, zero waste, and traveling light.
+All things cats, dogs, code snippets, zero waste, and traveling light.
 
 ***
